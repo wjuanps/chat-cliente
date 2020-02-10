@@ -27,7 +27,10 @@ public class RunCliente {
                     break;
                 }
             }
-        } catch (ClassNotFoundException | InstantiationException | IllegalAccessException | UnsupportedLookAndFeelException ex) {}
+        } catch (ClassNotFoundException 
+                    | InstantiationException 
+                    | IllegalAccessException 
+                    | UnsupportedLookAndFeelException ex) {}
     }
 
     public static void main(String[] args) {
